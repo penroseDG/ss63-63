@@ -1,0 +1,35 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "Hello",
+      "image": "https://static.tuoitre.vn/tto/i/s626/2006/07/09/2qUHfh7T.jpg",
+      "date": "16/12/2004",
+      "status": true
+    },
+    {
+      "id": 3,
+      "title": "MotherFucker",
+      "image": "https://static.tuoitre.vn/tto/i/s626/2006/07/09/2qUHfh7T.jpg",
+      "date": "10/12/2004",
+      "status": true
+    },
+    {
+      "id": 2,
+      "title": "Hi",
+      "image": "https://static.tuoitre.vn/tto/i/s626/2006/07/09/2qUHfh7T.jpg",
+      "date": "12/12/2004",
+      "status": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
